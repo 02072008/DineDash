@@ -1,0 +1,32 @@
+Minimum
+
+
+Operating System
+Windows 8, 8.1, 10, & 11
+
+Processor
+1.00 HZ Dual Core
+
+Memory
+300mb
+
+Storage
+60mb available Storage
+
+
+
+
+Recommended
+
+
+Operating System
+Windows 10, & 11
+
+Processor
+1.10 HZ Dual Core 
+
+Memory
+500gb
+
+Storage
+80mb available Storage
